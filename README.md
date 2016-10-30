@@ -8,4 +8,4 @@ Known issues:
 * class names use default color names that don't necessarily match actual colors used ("orange")
 
 ![A screenshot of the theme with Python](https://dl.dropboxusercontent.com/u/4830253/atom-delex-syntax-1.png)
-![A screenshot of the theme with LESS](https://dl.dropboxusercontent.com/u/4830253/atom-delex-syntax-1.png)
+![A screenshot of the theme with LESS](https://dl.dropboxusercontent.com/u/4830253/atom-delex-syntax-2.png)
