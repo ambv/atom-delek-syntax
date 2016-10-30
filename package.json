@@ -1,7 +1,7 @@
 {
   "name": "atom-delek-syntax",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A theme based on David Schweikert's `delek` colorscheme in Vim.",
   "keywords": [
     "syntax",
